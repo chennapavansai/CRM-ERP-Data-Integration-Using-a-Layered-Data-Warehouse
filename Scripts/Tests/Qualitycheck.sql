@@ -1,5 +1,4 @@
-https://github.com/SaiKamal07/sql-datawarehouse-project1use datawarehouse1;
-
+https://github.com/chennapavansai/CRM-ERP-Data-Integration-Using-a-Layered-Data-Warehouse/blob/main/Scripts/Tests/Qualitycheck.sql
 select cst_id from silver.crm_cust_info
 where cst_id is null ; -- to check null values
 
